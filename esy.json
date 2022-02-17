@@ -46,8 +46,7 @@
       }
     },
     "dependencies": {
-      "esy-zlib": "esy-packages/esy-zlib",
-      "@reason-native-web/esy-openssl": "^1.1.1000"
+      "esy-zlib": "esy-packages/esy-zlib"
     }
   }
 }
